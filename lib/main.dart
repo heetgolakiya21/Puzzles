@@ -5,7 +5,7 @@ import 'package:fruit_puzzles/splash_page.dart';
 void main() {
   runApp(
     MaterialApp(
-      title: "Fruit Puzzles",
+      title: "Puzzles",
       debugShowCheckedModeBanner: false,
       initialRoute: "splash_page",
       routes: {
